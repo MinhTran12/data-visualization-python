@@ -1,0 +1,19 @@
+# mac specific ignores
+*.DS_Store
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Pipenv lockfile
+Pipfile.lock
+
+# out folder
+out/
