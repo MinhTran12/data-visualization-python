@@ -2,7 +2,7 @@
 
 A Python project for visualizing and exploring graph/network data (force-directed layouts, edge bundling, radial/tree views, etc.). The repository contains parsers, layout algorithms, and drawing helpers that operate on .dot graph files.
 
-![Graph GUI](images\tk-gui.png)
+![Graph GUI](images/tk-gui.png)
 
 ## Quick start
 
